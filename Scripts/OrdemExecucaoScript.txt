@@ -1,0 +1,17 @@
+Ordem de Execução dos Scripts
+
+1 - scriptbd.sql
+2 - InsertGrupo.sql
+3 - InsertPais.sql
+4 - InsertCidade.sql
+5 - InsertEstadio.sql
+6 - InsertPassaporteDataN.sql
+7 - InsertSelecao.sql
+8 - InsertArbitro.sql
+9 - InsertAtleta.sql
+10 - InsertTipo.sql
+11 - InsertTipoPublicidade.sql
+12 - InsertAnunciante.sql
+13 - InsertPatrocinador.sql
+14 - InsertJogo.sql
+15 - InsertClassificacao.sql
