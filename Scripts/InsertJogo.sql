@@ -1,0 +1,28 @@
+-- Inserindo dados na Tabela Jogo --
+desc Jogo;
+INSERT INTO Jogo VALUES('000001', 47260, 'Fase de Grupos', "21:30:00", 2247663000, "2019/06/14", 'Seleção Brasileira', 'Brasil', 'Seleção Boliviana', 'Bolívia', 'Estádio do Morumbi');
+INSERT INTO Jogo VALUES('000002', 13370, 'Fase de Grupos', "16:00:00", 240008000, "2019/06/15", 'Seleção Venezuelana', 'Venezuela', 'Seleção Peruana', 'Peru', 'Arena do Grêmio');
+INSERT INTO Jogo VALUES('000003', 35572, 'Fase de Grupos', "19:00:00", 925971000, "2019/06/15", 'Seleção Argentina', 'Argentina', 'Seleção Colombiana', 'Colômbia', 'Arena Fonte Nova');
+INSERT INTO Jogo VALUES('000004', 20000, 'Fase de Grupos', "16:00:00", NULL, "2019/06/16", 'Seleção Paraguaia', 'Paraguai', 'Seleção do Catar', 'Catar', 'Estádio do Maracanã');
+INSERT INTO Jogo VALUES('000005', 13611, 'Fase de Grupos', "19:00:00", 153453500, "2019/06/16", 'Seleção Uruguaia', 'Uruguai', 'Seleção Equatoriana', 'Equador', 'Estádio do Mineirão');
+INSERT INTO Jogo VALUES('000006', 23253, 'Fase de Grupos', "20:00:00", NULL, "2019/06/17", 'Seleção Japonesa', 'Japão', 'Seleção Chilena', 'Chile', 'Estádio do Morumbi');
+INSERT INTO Jogo VALUES('000007', NULL, 'Fase de Grupos', "18:30:00", NULL, "2019/06/18", 'Seleção Boliviana', 'Bolívia', 'Seleção Peruana', 'Peru', 'Estádio do Maracanã');
+INSERT INTO Jogo VALUES('000008', 39622, 'Fase de Grupos', "21:30:00", 873448000, "2019/06/18", 'Seleção Brasileira', 'Brasil', 'Seleção Venezuelana', 'Venezuela', 'Arena Fonte Nova');
+INSERT INTO Jogo VALUES('000009', NULL, 'Fase de Grupos', "18:30:00", NULL, "2019/06/19", 'Seleção Colombiana', 'Colômbia', 'Seleção do Catar', 'Catar', 'Estádio do Morumbi');
+INSERT INTO Jogo VALUES('000010', NULL, 'Fase de Grupos', "21:30:00", NULL, "2019/06/19", 'Seleção Argentina', 'Argentina', 'Seleção Paraguaia', 'Paraguai', 'Estádio do Mineirão');
+INSERT INTO Jogo VALUES('000011', 39733, 'Fase de Grupos', "20:00:00", 661363000, "2019/06/20", 'Seleção Uruguaia', 'Uruguai', 'Seleção Japonesa', 'Japão', 'Arena do Grêmio');
+INSERT INTO Jogo VALUES('000012', NULL, 'Fase de Grupos', "20:00:00", NULL, "2019/06/21", 'Seleção Equatoriana', 'Equador', 'Seleção Chilena', 'Chile', 'Arena Fonte Nova');
+INSERT INTO Jogo VALUES('000013', 45067, 'Fase de Grupos', "16:00:00", 1000909500, "2019/06/22", 'Seleção Peruana', 'Peru', 'Seleção Brasileira', 'Brasil', 'Arena Corinthians');
+INSERT INTO Jogo VALUES('000014', 4640, 'Fase de Grupos', "16:00:00", 631605, "2019/06/22", 'Seleção Boliviana', 'Bolívia', 'Seleção Venezuelana', 'Venezuela', 'Estádio do Mineirão');
+INSERT INTO Jogo VALUES('000015', 41390, 'Fase de Grupos', "16:00:00", 790170000, "2019/06/23", 'Seleção do Catar', 'Catar', 'Seleção Argentina', 'Argentina', 'Arena do Grêmio');
+INSERT INTO Jogo VALUES('000016', 11313, 'Fase de Grupos', "16:00:00", NULL, "2019/06/23", 'Seleção Colombiana', 'Colômbia', 'Seleção Paraguaia', 'Paraguai', 'Arena Fonte Nova');
+INSERT INTO Jogo VALUES('000017', NULL, 'Fase de Grupos', "20:00:00", NULL, "2019/06/24", 'Seleção Chilena', 'Chile', 'Seleção Uruguaia', 'Uruguai', 'Estádio do Maracanã');
+INSERT INTO Jogo VALUES('000018', NULL, 'Fase de Grupos', "20:00:00", NULL, "2019/06/24", 'Seleção Equatoriana', 'Equador', 'Seleção Japonesa', 'Japão', 'Estádio do Mineirão');
+INSERT INTO Jogo VALUES('000019', 48211, 'Quartas de Final', "19:00:00", 1035243000, "2019/06/27", 'Seleção Brasileira', 'Brasil', 'Seleção Paraguaia', 'Paraguai', 'Arena do Grêmio');
+INSERT INTO Jogo VALUES('000020', NULL, 'Quartas de Final', "19:00:00", NULL, "2019/06/28", 'Seleção Venezuelana', 'Venezuela', 'Seleção Argentina', 'Argentina', 'Estádio do Maracanã');
+INSERT INTO Jogo VALUES('000021', NULL, 'Quartas de Final', "19:00:00", NULL, "2019/06/28", 'Seleção Colombiana', 'Colômbia', 'Seleção Chilena', 'Chile', 'Arena Corinthians');
+INSERT INTO Jogo VALUES('000022', 21180, 'Quartas de Final', "19:00:00", 313482000, "2019/06/29", 'Seleção Uruguaia', 'Uruguai', 'Seleção Peruana', 'Peru', 'Arena Fonte Nova');
+INSERT INTO Jogo VALUES('000023', 55947, 'SemiFinais', "19:00:00", 1874444500, "2019/07/02", 'Seleção Brasileira', 'Brasil', 'Seleção Argentina', 'Argentina', 'Estádio do Mineirão');
+INSERT INTO Jogo VALUES('000024', 33058, 'SemiFinais', "19:00:00", 830512000, "2019/07/03", 'Seleção Chilena', 'Chile', 'Seleção Peruana', 'Peru', 'Arena do Grêmio');
+INSERT INTO Jogo VALUES('000025', 44269, 'Disputa 3 Colocado', "19:00:00", 718038500, "2019/07/06", 'Seleção Argentina', 'Argentina', 'Seleção Chilena', 'Chile', 'Arena Corinthians');
+INSERT INTO Jogo VALUES('000026', 69906, 'Final', "19:00:00", 3876085000, "2019/07/07", 'Seleção Brasileira', 'Brasil', 'Seleção Peruana', 'Peru', 'Estádio do Maracanã');
